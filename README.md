@@ -1,2 +1,2 @@
 # OfficeGuru
-Proyecto integrado Digital House (en Laravel)
+Proyecto integrado Digital House (en Laravel). 
